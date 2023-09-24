@@ -1,3 +1,4 @@
+#If anything we need to modified inside model need to migrate
 from django.db import models
 
 # Create your models here.
